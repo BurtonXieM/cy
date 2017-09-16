@@ -18,11 +18,11 @@ class Cy extends CI_Controller {
 	 * map to /index.php/welcome/<method_name>
 	 * @see https://codeigniter.com/user_guide/general/urls.html
 	 */
-	/*public function index()
+	public function index()
 	{
 		$this->load->helper('url');
 		$this->load->view('cy/index');
-	}*/
+	}
 	//solutions
 	public function solutions()
 	{	
@@ -43,7 +43,7 @@ class Cy extends CI_Controller {
 		$this->load->view('cy/about');
 	}
 	//recruit
-	public function index()
+	public function recruit()
 	{
 		$this->load->helper('url');
 		$this->load->view('cy/recruit');
