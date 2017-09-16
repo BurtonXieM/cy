@@ -10,7 +10,7 @@
   <meta name="renderer" content="webkit">
   <meta http-equiv="Cache-Control" content="no-siteapp"/>
 
-  <link rel="alternate icon" type="static/images/h1.png" href="static/images/h1.png" >
-  <link rel="stylesheet" href="static/css/amazeui.css" />
-  <link rel="stylesheet" href="static/css/style.css" />
+  <link rel="alternate icon" type="static/images/h1.png" href="<?php echo base_url() ;?>static/images/h1.png" >
+  <link rel="stylesheet" href="<?php echo base_url() ;?>static/css/amazeui.css" />
+  <link rel="stylesheet" href="<?php echo base_url() ;?>static/css/style.css" />
 </head>

@@ -1,7 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
-<html><!DOCTYPE html>
 <html>
 <?php require_once 'header.php';?>
 <body>
@@ -26,7 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		 <li >
 	    	<div class="product-content">
 			    	<div class="left am-u-sm-12 am-u-md-6 am-u-lg-6 recruit-left">
-			    		<img class="product-img" src="static/images/z2.png" />
+			    		<img class="product-img" src="<?php echo base_url() ;?>static/images/z2.png" />
 			    	</div>
 			    	<div class="right am-u-sm-12 am-u-md-6 am-u-lg-6 recruit-right">
 
@@ -90,7 +89,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			    	</div>
 			    	</div>
 			    	<div class="right am-u-sm-12 am-u-md-6 am-u-lg-6 recruit-right">
-			    		<img class="product-img" src="static/images/z1.png" />
+			    		<img class="product-img" src="<?php echo base_url() ;?>static/images/z1.png" />
 			    	</div>
 			    	<div class="clear"></div>
 	    	</div>
@@ -98,7 +97,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	    <li >
 	    	<div class="product-content">
 			    	<div class="left am-u-sm-12 am-u-md-6 am-u-lg-6 recruit-left">
-			    		<img class="product-img" src="static/images/z2.png"  />
+			    		<img class="product-img" src="<?php echo base_url() ;?>static/images/z2.png"  />
 			    	</div>
 			    	<div class="right am-u-sm-12 am-u-md-6 am-u-lg-6 recruit-right">
 

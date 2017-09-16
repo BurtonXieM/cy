@@ -1,7 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
-<html><!DOCTYPE html>
 <html>
 <?php require_once 'header.php';?>
 <body>
@@ -21,7 +20,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		</div>
 	</div>
 </div>
-<div><img src="static/images/p.jpg" >
+<div><img src="<?php echo base_url() ;?>static/images/p.jpg" >
 </div>
 <?php require_once 'footer.php';?>
 </body>

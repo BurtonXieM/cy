@@ -39,6 +39,6 @@
 <![endif]-->
 
 <!--[if (gte IE 9)|!(IE)]><!-->
-<script src="static/js/jquery.min.js" ></script>
+<script src="<?php echo base_url() ;?>static/js/jquery.min.js" ></script>
 <!--<![endif]-->
-<script src="static/js/amazeui.min.js" ></script>
+<script src="<?php echo base_url() ;?>static/js/amazeui.min.js" ></script>
