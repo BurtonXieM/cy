@@ -13,4 +13,5 @@
   <link rel="alternate icon" type="static/images/h1.png" href="<?php echo base_url() ;?>static/images/h1.png" >
   <link rel="stylesheet" href="<?php echo base_url() ;?>static/css/amazeui.css" />
   <link rel="stylesheet" href="<?php echo base_url() ;?>static/css/style.css" />
+<link rel="stylesheet" href="<?php echo base_url() ;?>static/css/guanyuwomen.css" />
 </head>

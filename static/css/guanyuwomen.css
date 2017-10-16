@@ -1,0 +1,40 @@
+﻿
+.main{ width:1104px; margin:0 auto; position:relative;}
+.main_left{ position:absolute;top:0px; left:40px;
+width:188px;}
+.main_left ul{ margin:0 auto;}
+.main_left ul li{border-left:1px solid #c3bbbb; border-right:1px solid #c3bbbb;
+border-bottom:1px solid #c3bbbb;width:142px; line-height:46px; font-family:"微软雅黑"; 
+font-size:14px; font-weight:bold; color:#424140; padding-left:44px; cursor:pointer;
+background-image:url(../Images/main_left_background_07.jpg);}
+.main_left ul li:hover{ background-image:url(../Images/main_left_background_03.jpg); color:#FFF;}
+.main_left ul .main_left_top{ background-image:none;border-top:2px solid #db0606; font-family:"微软雅黑"; cursor:auto; font-size:16px; color:#424140;}
+.main_left ul .main_left_top:hover{ background-image:none; color:#424140;}
+.main_left ul .main_left_xuan{ width:144px; border-left:none; border-right:none; background-image:url(../Images/main_left_background_03.jpg); color:#FFF;}
+.footerBox{ width:100%; background-color:#8f0707;}
+.footer{ width:1104px; margin:0 auto;}
+.main_right{ margin-left:120px;}
+.main_right_01{ margin-top:100px; font-family:"微软雅黑"; font-size:12px;
+color:#737170; line-height:10px; margin-bottom:12px; font-weight:bold;
+padding-left:19px;}
+.main_right_01 a{}
+.main_right_02{ margin-top:47px; margin-bottom:28px;}
+.main_right_03 img{ margin-left:316px; margin-bottom:14.5px;}
+.main_right_03 p{ font-family:"微软雅黑"; font-size:14px; color:#424140; line-height:30px;
+text-indent:33px; padding-left:4px; width:810px;}
+.main_right_03{ padding:10px 0 30px 50px;}
+
+.main_right_04{ overflow:hidden; padding-bottom:138px;}
+.main_right_04_01{ float:left; margin-left:14px; margin-right:46px;}
+.main_right_04_02{ float:left;}
+.main_right_04_02 img{ margin-top:18px; margin-left:41px; margin-bottom:22px;}
+.main_right_04_02 p{ font-family:"微软雅黑"; font-size:14px; color:#424140; line-height:30px; text-indent:28px;
+text-align:justify; text-justify:inter-ideograph;}
+.main_right_05{ overflow:hidden; padding-bottom:173px;}
+.main_right_05_01{ float:left;}
+.main_right_05_02{ float:left; margin-left:51px;}
+.main_right_05_01 p{ font-family:"微软雅黑"; font-size:14px; color:#424140; margin-top:42px; width:381px; text-align:center;}
+.main_right_05_02 p{ font-family:"微软雅黑"; font-size:14px; color:#424140; margin-top:42px; width:381px; text-align:center;}
+.footer{ position:relative;}
+.footer_01{ position:absolute; top:115px; left:442px;}
+.footer_01 p{ font-family:"微软雅黑";font-size:14px; color:#FFF; line-height:24px;}
