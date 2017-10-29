@@ -2,31 +2,7 @@
 ?>
 <footer class="footer ">
 
-<ul>
-
-        <li class="am-u-lg-4 am-u-md-4 am-u-sm-12 part-5-li2">
-
-            <div class="part-5-words2">
-                <span>地址:123123</span>
-
-
-                <span>邮箱:aa@qq.com</span><!--
-				<!--<span><i class="am-icon-phone"></i><em >412312</em></span>-->
-
-            </div>
-        </li>
-        <li class="am-u-lg-4 am-u-md-4 am-u-sm-12 ">
-
-            <div class="part-5-words2">
-                <ul class="part-5-words2-ul">
-                    <span>123123版权所有 </span>
-                    <span>Copyright©2015-2018  All Rights Reserved</span>
-                    <div class="clear"></div>
-                </ul>
-            </div>
-        </li>
-        <div class="clear"></div>
-    </ul>
+<img alt="" src="<?php echo base_url() ;?>static/images/footer.jpg" style="width:100px" >
 
 </footer>
 

@@ -6,17 +6,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <?php require_once 'header.php';?>
 <body>
-<?php require_once 'nav.php';?>
-<!--
- <li class="aa"><img src="<?php echo base_url() ;?>static/images/h3.png" /></li>
- <li class="aa"><img src="<?php echo base_url() ;?>static/images/hn.jpg" /></li>
- -->
-   
- <div class="main">
+<?php require_once 'nav.php';?>   
+ <div class="main" style="margin-left: 200px;">
         <div class="main_right">
-        	<div class="main_right_01">
-        	当前位置:<a href="/index">首页</a> > <a href="/">公司首页 </a>
-			</div>
         	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
 			<img alt="" src="<?php echo base_url() ;?>static/images/m01.png" /> 
 			<div class="main_right_03">            
@@ -29,7 +21,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				
 
 				<div class="main_right_04_02">     
-					<img class="main_right_04_01" alt="" src="<?php echo base_url() ;?>static/images/m02.png"" />      				
+					<img class="main_right_04_01" alt="" src="<?php echo base_url() ;?>static/images/m02.png" />      				
 					<p>浙江联合中
 					小企业控股集团，总注册资金3.2亿元人民币, 位于杭州市环城北路292号--浙江省中小企业融资服务示范区。集团所在园区是浙江省经信委指导下成立
 					的金融服务示范区，于2012年10月由毛光烈副省长亲自授牌。目前，集团业务发展迅速，旗下设立多家子公司，业务涉及第三方财富管理、资产管理与
@@ -38,7 +30,22 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 			   </div>           
 		   </div>
+		  <ul class="main_right_05">            
+				<li class="main_right_05_01">
+					<img alt="" src="<?php echo base_url() ;?>static/images/m02.png" >
+					<p>集团获“中国金融行业3A级信用单位”荣誉</p>                
+				</li>                
+				
+				
+				
+				<li class="main_right_05_01" style="margin-left:60px;">
+					<img alt="" src="<?php echo base_url() ;?>static/images/m02.png" >
+					<p>集团获“浙江省3.15金承诺示范单位”荣誉 </p>
+				
+				</li>
+			</ul>
 		   
+</div>
 </div>
 <?php require_once 'footer.php';?>
 </body>

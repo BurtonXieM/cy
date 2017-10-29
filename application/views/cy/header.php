@@ -14,4 +14,11 @@
   <link rel="stylesheet" href="<?php echo base_url() ;?>static/css/amazeui.css" />
   <link rel="stylesheet" href="<?php echo base_url() ;?>static/css/style.css" />
 <link rel="stylesheet" href="<?php echo base_url() ;?>static/css/guanyuwomen.css" />
+<link href="<?php echo base_url() ;?>static/css/index.css" rel="stylesheet" type="text/css">
+
+
 </head>
+<div class="header">
+	<img src="<?php echo base_url() ;?>static/images/logo.png" class="headeri_01">
+ 
+</div>

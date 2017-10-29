@@ -112,12 +112,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</a>
 		</div>
 </div>
-<div class="gray-li">
+<!--<div class="gray-li">
 <div class=" am-container-1">
 	<div class="contact-us">
 		 <div class="am-u-lg-6 am-u-md-6 am-u-sm-12">
-		 	<!--<img src="map.png"  />
-		 --></div>
+		 	<img src="map.png"  />
+		 </div>
 		 <div class="am-u-lg-6 am-u-md-6 am-u-sm-12">
 		 	 <ul class="contact-add">
 		 	 	<li>
@@ -135,7 +135,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		 <div class="clear"></div>
 	</div>
 </div>
-</div>
+</div> -->
 <?php require_once 'footer.php';?>
 </body>
 </html>
